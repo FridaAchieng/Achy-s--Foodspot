@@ -1,2 +1,2 @@
-# Achy-s--Foodspot
+# Achy's-Foodspot
 A food diary blog
